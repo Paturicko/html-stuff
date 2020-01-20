@@ -1,0 +1,86 @@
+<html>
+	<head>
+		<h1>7 Cool Search Engines</h1>
+	</head>
+	<body>
+		<table border=1>
+			<tr>
+				<td>
+					<a href="https://www.google.com/?safe=active&ssui=on">
+						<img src="Google.png" width=400 height=200>
+					</a>
+				</td>
+
+				<td>
+					<font face=arial size=5>Google is the most popular search engine in the world.</font>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://www.bing.com/">
+						<img src="Bing.png" width=350 height=200></td>
+					</a>
+				</td>
+
+				<td>
+					<font face=arial size=5>Bing is a search engine owned by microsoft.</font>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://ca.yahoo.com">
+						<img src="Yahoo.jpg" width=200 height=200></td>
+					</a>
+				</td>
+
+				<td>
+					<font face=arial size=5>Yahoo is a search engine that organizes info in topic categories. </font>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://www.quora.com/">
+						<img src="Quora.png" width=300 height=200></td>
+					</a>
+				</td>
+
+				<td>
+					<font face=arial size=5>Quora is an American question and answer search engine.</font>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://duckduckgo.com/?t=hk">
+						<img src="DuckDuckGo.png" width=200 height=200></td>
+					</a>
+				</td>
+
+				<td>
+					<font face=arial size=5>DuckDuckGo is a search engine that focuses on user privacy.</font>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://www.ask.com/">
+						<img src="Ask.png" width=250 height=200></td>
+					</a>
+				</td>
+
+				<td>
+					<font face=arial size=5>Ask is a question and answer based search engine.</font>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://www.aol.ca/">
+						<img src="Aol.png" width=400 height=200></td>
+					</a>
+				</td>
+
+				<td>
+					<font face=arial size=5>Aol is a search engine based in New York City.</font>
+				</td>
+			</tr>
+		</table>
+	</body>
+</HTML>

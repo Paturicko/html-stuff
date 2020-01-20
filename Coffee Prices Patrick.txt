@@ -1,0 +1,74 @@
+<html>
+
+	<head>
+		<!--Add a Title-->
+		<title>The Coffee Mafia</title>
+	</head>
+
+	<!--Color BK-->
+	<body bgcolor=brown>
+		<form>
+			<table border=1>
+
+				<!--Input Orders & List Prices-->
+				<tr>
+					<td>
+						<font face="Arial" color=white size=7>The Coffee Mafia</font>
+					</td>
+
+					<td>
+						<img src="Coffee.jpg" width=400 height=200></td>
+					</td>
+				</tr>
+
+				<tr>
+					<td>
+						<input type=text name=esp>
+					</td>
+
+					<td>
+						<font face="Arial" color=white size=4>Espresso $1.20</font>
+					</td>
+				</tr>
+
+				<tr>
+					<td>
+						<input type=text name=cap>
+					</td>
+
+					<td>
+						<font face="Arial" color=white size=4>Cappuccino $1.20</font>
+					</td>
+				</tr>
+
+				<tr>
+					<td>
+						<input type=text name=latte>
+					</td>
+
+					<td>
+						<font face="Arial" color=white size=4>Latte $1.00</font>
+					</td>
+				</tr>
+
+				<tr>
+					<td>
+						<input type=text name=iced>
+					</td>
+
+					<td>
+						<font face="Arial" color=white size=4>Iced Coffee $0.90</font>
+					</td>
+				</tr>
+
+				<!--Calculate Total-->
+				<tr>
+					<td>
+						<input type=text name=Total>
+						<input type=button value=BILL onclick="Total.value=eval(esp.value)*1.20+eval(cap.value)*1.20+eval(latte.value)*1.00+eval(iced.value)*0.90">
+					</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</head>
